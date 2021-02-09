@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Tours-Project/static/css/main.4331736f.chunk.css",
+    "main.js": "/React-Tours-Project/static/js/main.1d07eb08.chunk.js",
+    "main.js.map": "/React-Tours-Project/static/js/main.1d07eb08.chunk.js.map",
+    "runtime-main.js": "/React-Tours-Project/static/js/runtime-main.74c8f9ea.js",
+    "runtime-main.js.map": "/React-Tours-Project/static/js/runtime-main.74c8f9ea.js.map",
+    "static/js/2.9025c8bf.chunk.js": "/React-Tours-Project/static/js/2.9025c8bf.chunk.js",
+    "static/js/2.9025c8bf.chunk.js.map": "/React-Tours-Project/static/js/2.9025c8bf.chunk.js.map",
+    "index.html": "/React-Tours-Project/index.html",
+    "static/css/main.4331736f.chunk.css.map": "/React-Tours-Project/static/css/main.4331736f.chunk.css.map",
+    "static/js/2.9025c8bf.chunk.js.LICENSE.txt": "/React-Tours-Project/static/js/2.9025c8bf.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/React-Tours-Project/static/media/mountains-190055.acdbb675.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74c8f9ea.js",
+    "static/js/2.9025c8bf.chunk.js",
+    "static/css/main.4331736f.chunk.css",
+    "static/js/main.1d07eb08.chunk.js"
+  ]
+}
